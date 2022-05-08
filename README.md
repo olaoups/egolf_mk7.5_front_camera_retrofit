@@ -2,8 +2,14 @@
 
 ### Sources
 
-* Base informations: https://mqb.pl/en/tutorial-retrofiting-lane-assist-sign-assist-light-assist-5q0980653/
+* Base informations:
+  * https://mqb.pl/en/tutorial-retrofiting-lane-assist-sign-assist-light-assist-5q0980653/
+  * https://www.golfmk7.com/forums/index.php?threads/retrofitting-lane-assist-camera-without-changing-windshield.358776/
+    * Connectors details - https://www.golfmk7.com/forums/index.php?threads/retrofitting-lane-assist-camera-without-changing-windshield.358776/page-29
+  * Mount on mk7.5 on existing windshield - https://www.drive2.com/l/515268533244920010/
+  * 3D printing mount - https://www.drive2.com/b/514156652111332001/
 * Spare parts: https://volkswagen.7zap.com/
+  * https://volkswagen.7zap.com/en/rdw/e-golf/goe/2016-774/9/907-907040/
 * Youtube videos
   * Complete installation (french) - https://www.youtube.com/watch?v=fKY0MPujUdk&t=156s
     * Calibration - https://www.youtube.com/watch?v=jPdpQWVCZN4
@@ -29,6 +35,10 @@
       * Orange Grey----J533 T20/17
       * Orange Brown----ACC T8/6
       * Orange white----ACC T8/5
+
+## Informations
+
+* VIN of the car: WVWZZZAUZH8951075
 
 ### Different pictures of my car
 
