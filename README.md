@@ -1,16 +1,21 @@
-# egolf_mk7.5_front_camera_retrofit
+# e-Golf mk7.5 - front camera retrofit
 
 ### Sources
 
 * Base informations: https://mqb.pl/en/tutorial-retrofiting-lane-assist-sign-assist-light-assist-5q0980653/
 * Spare parts: https://volkswagen.7zap.com/
-
+* Youtube videos
+  * Complete installation (french) - https://www.youtube.com/watch?v=fKY0MPujUdk&t=156s
+    * Calibration - https://www.youtube.com/watch?v=jPdpQWVCZN4
+    * Coding - https://www.youtube.com/watch?v=-JANA6p845M
+  * Unmount mirror - https://www.youtube.com/watch?v=bE7z4Mnvdg0
 
 ### Spare parts
 
 * Camera for Golf mk7.5 - 3Q0 980 654 (G, H or L? What's the difference?)
 * Rear view mirror cover with camera cutout - 3G0858548A9B9
   * https://www.ebay.com/itm/265403858300?hash=item3dcb4d7d7c:g:698AAOSwaRlhj8~A
+  * Search: https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2060353.m570.l1313&_nkw=3G0858548A9B9&_sacat=0
 * Approx. 40cm 24pin 0.5mm raster FPC TTL cable extension band (limited to 20cm?) - To find...
 * 24 pin 0.5mm raster cable adapter (female/female) - To find...
 * Cables harness
