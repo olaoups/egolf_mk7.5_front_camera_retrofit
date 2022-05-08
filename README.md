@@ -6,7 +6,7 @@
   * https://mqb.pl/en/tutorial-retrofiting-lane-assist-sign-assist-light-assist-5q0980653/
   * https://www.golfmk7.com/forums/index.php?threads/retrofitting-lane-assist-camera-without-changing-windshield.358776/
     * Connectors details - https://www.golfmk7.com/forums/index.php?threads/retrofitting-lane-assist-camera-without-changing-windshield.358776/page-29
-  * Mount on mk7.5 on existing windshield - https://www.drive2.com/l/515268533244920010/
+  * Mount on mk7.5 on existing windshield + infos about connectors (34pin) - https://www.drive2.com/l/515268533244920010/
   * 3D printing mount - https://www.drive2.com/b/514156652111332001/
 * Spare parts: https://volkswagen.7zap.com/
   * https://volkswagen.7zap.com/en/rdw/e-golf/goe/2016-774/9/907-907040/
@@ -22,7 +22,7 @@
 * Rear view mirror cover with camera cutout - 3G0858548A9B9
   * https://www.ebay.com/itm/265403858300?hash=item3dcb4d7d7c:g:698AAOSwaRlhj8~A
   * Search: https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2060353.m570.l1313&_nkw=3G0858548A9B9&_sacat=0
-* Approx. 40cm 24pin 0.5mm raster FPC TTL cable extension band (limited to 20cm?) - To find...
+* Approx. 40cm 24pin (or 34pin?) 0.5mm raster FPC TTL cable extension band (limited to 20cm?) - To find...
 * 24 pin 0.5mm raster cable adapter (female/female) - To find...
 * Cables harness
   * https://www.kufatec.com/en/assist-park/camera-systems/cable-set-front-camera-mqb-for-vw-seat-skoda-audi-40002
