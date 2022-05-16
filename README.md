@@ -22,8 +22,12 @@
 * Rear view mirror cover with camera cutout - 3G0858548A9B9
   * https://www.ebay.com/itm/265403858300?hash=item3dcb4d7d7c:g:698AAOSwaRlhj8~A
   * Search: https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2060353.m570.l1313&_nkw=3G0858548A9B9&_sacat=0
-* Approx. 40cm 24pin (or 34pin?) 0.5mm raster FPC TTL cable extension band (limited to 20cm?) - To find...
-* 24 pin 0.5mm raster cable adapter (female/female) - To find...
+* Flat ribbon, 20cm, 34 pin, pitch 0.5mm - https://fr.aliexpress.com/item/1005002468334211.html?spm=a2g0o.productlist.0.0.72112d86js3hMe
+* Connector female/female, 34 pin, pitch 0.5mm - https://fr.aliexpress.com/item/4001065929860.html?spm=a2g0o.productlist.0.0.2a716e32TI06b8
+* Unmount fuses box near driver's pedals - see at 9min 55sec - https://youtu.be/g6HS_I649Wo?t=595
+* mirror cover Audi TT 8S8857519 4PK - Hard to find this spare part! Ebay's parts are expensive... 3D printing?
+  * https://www.ebay.ch/itm/264601971334?hash=item3d9b81aa86:g:rksAAOSwSeVeIeFE
+  * https://www.ebay.com/itm/201882180445?hash=item2f011d9b5d:g:K8gAAOSwZzNf0gJH
 * Cables harness
   * https://www.kufatec.com/en/assist-park/camera-systems/cable-set-front-camera-mqb-for-vw-seat-skoda-audi-40002
   * https://www.aliexpress.com/item/32832312716.html?spm=a2g0o.productlist.0.0.55b0751dpI43mc / package B
